@@ -1,0 +1,70 @@
+   body {
+    font: 14pt Arial, Helvetica, sans-serif; /* Шрифт на веб-странице */
+    background #ecf2f4; /* Цвет фона */
+	font-family: monospace;
+	color: #07232f;
+	background-image: url(jpg/3.jpg);
+	}
+   
+   h2 {
+    font-size: 1.2em; /* Размер шрифта */
+    color: #0b342c; /* Цвет текста */
+    margin-top: 0; /* Отступ сверху */
+   }
+   
+   #container {
+    width:1100px; /* Ширина слоя */
+    margin: 0 auto; /* Выравнивание по центру */
+    background: #D9E8EF; /* Цвет фона левой колонки */
+	box-shadow: 5px 5px 10px #47373f;
+	border-radius: 0 20px;
+   }
+   
+   #header {
+    font-size: 2.5em; /* Размер текста */
+    text-align: center; /* Выравнивание по центру */
+    padding:15px; /* Отступы вокруг текста */
+    background: #70B1CB; /* Цвет фона шапки */
+    color: #0b342c; /* Цвет текста */
+	border-radius: 0 20px;
+   }
+   
+   #sidebar {
+    margin-top: 10px; 
+    width: 130px; /* Ширина слоя */
+    padding: 0 15px; /* Отступы вокруг текста */
+    float: left; /* Обтекание по правому краю */
+   }
+   
+   #content {
+    margin-left: 150px; /* Отступ слева */
+    padding: 20px; /* Поля вокруг текста */
+    background:#F2FBFF; /* Цвет фона правой колонки */
+   }
+   
+   #footer {
+    background: #70B1CB; /* Цвет фона подвала */
+    color: #0b342c; /* Цвет текста */
+    padding:15px; /* Отступы вокруг текста */
+    clear: left; /* Отменяем действие float */
+	border-radius: 0 20px;
+   }
+   
+   img {
+	box-shadow: 5px 5px 10px #47373f;
+	border-radius: 0 20px;
+   }
+   
+	h3 {
+	text-align: center;
+	color: #0b342c;
+	background-color: #D1E6F2;
+	border-radius: 0 20px;
+	padding:5px;
+	box-shadow: 5px 5px 10px #47373f;
+	}
+	
+	.rightimg {
+ float: right;
+ }
+ 
