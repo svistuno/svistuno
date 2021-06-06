@@ -1,16 +1,32 @@
-### Hi there 👋
-
-<!--
-**svistuno/svistuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>все равно что</title>
+  <link href="главная.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+  </style>
+ </head>    
+ <body>
+  <div id="container">
+   <div id="header"><b>.....</b> </div>
+   <div id="sidebar">
+    <p><a href="C:\Users\1\Desktop\html\главная.html" target="др игра">Главная</a></p>
+    <p><a href="C:\Users\1\Desktop\html\др игра 1.html" target="др игра">Др игра 1</a></p>
+    <p><a href="C:\Users\1\Desktop\html\др игра 2.html" target="др игра">Др игра 2</a></p>
+	<p><a href="C:\Users\1\Desktop\html\др игра 3.html" target="др игра">Др игра 3</a></p>
+	<p><a href="C:\Users\1\Desktop\html\авторы.html" target="др игра">Авторы</a></p>
+   </div>
+   <div id="content">
+    <h1>Minecraft</h1>
+	<p> 
+	<img style="margin:20px"  src="jpg/1.jpg" height="250px" class="rightimg">
+	<b> Minecraft</b> — компьютерная инди-игра в жанре песочницы, изначально созданная шведским программистом Маркусом Перссоном и выпущенная его компанией Mojang AB. Перссон опубликовал начальную версию игры в 2009 году; в конце 2011 года была выпущена стабильная версия для ПК Microsoft Windows, распространявшаяся через официальный сайт. В последующие годы Minecraft была портирована на Linux и macOS для персональных компьютеров; на Android, iOS и Windows Phone для мобильных устройств; на игровые приставки PlayStation 4, Vita, VR, Xbox One, Nintendo 3DS, Switch и Wii U. В 2014 году корпорация Microsoft приобрела права на Minecraft вместе с компанией Mojang AB за 2,5 миллиарда $. Студия 4J портировала игру на игровые приставки, а Xbox Game Studios разработала мультиплатформенную версию Minecraft и специальное издание игры для образовательных учреждений. </p>
+	<a href="https://vk.com/noych" target="_blank">Ссылка на игру)</a> <br>
+	<h3> <p> Майнкрафт - самая популярная игра в мире </p> </h3>   
+   </div> 
+   <div id="footer">.</div>
+  </div> 
+ </body>
+</html>
